@@ -23,3 +23,13 @@ https://zhuanlan.zhihu.com/p/613649876?utm_id=0
 
 
 参考文献:
+
+王琦.基于深度学习的金融问答系统的设计与实现[D]. 中国科学院大学(中国科学院沈阳计算技术研究所)；
+
+宋渊.基于深度学习的金融知识图谱系统研究[D].上海交通大学
+
+曹明宇，李青青，杨志豪，等．基于知识图谱的原发性肝癌知识问答系统［Ｊ］
+
+张崇宇．基于知识图谱的自动问答系统的应用研究与实现［Ｄ］．北京：北京邮电大学
+
+谭亦鸣、闵德海、李煜等.Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions.东南大学
